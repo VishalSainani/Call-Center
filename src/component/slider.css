@@ -1,0 +1,10 @@
+.Setting{
+    left: 0;
+    top: 0;
+    width: 66%;
+    height: 100%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: auto;    
+    background-position: center;
+}
